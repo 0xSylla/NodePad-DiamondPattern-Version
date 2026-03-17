@@ -12,3 +12,16 @@ docs/
 
 # Dotenv file
 .env
+
+# Dependencies
+node_modules/
+
+# Remix artifacts
+.deps/
+.states/
+artifacts/
+
+# Lock files
+package-lock.json
+yarn.lock
+foundry.lock
